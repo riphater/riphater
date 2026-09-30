@@ -1,5 +1,7 @@
 # 👾 Hey, I'm a developer
 
+<img src="./assets/demo.gif" width="700">
+
 <div align="center">
 
 ### 🧪 Security • Code • Vibe Coding
